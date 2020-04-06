@@ -7,7 +7,6 @@
     <groupId>com.teoxoft.test</groupId>
     <artifactId>TestTaskFromTEOXOFT</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
